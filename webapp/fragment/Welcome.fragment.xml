@@ -1,0 +1,9 @@
+<core:FragmentDefinition
+	xmlns:core="sap.ui.core"
+	xmlns="sap.m">
+	<Page>
+		<content>
+			<Text text="This is my Home view" />
+		</content>
+	</Page>
+</core:FragmentDefinition>
